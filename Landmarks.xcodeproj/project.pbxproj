@@ -12,6 +12,8 @@
 		B12093F1296FC90400FE6D89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B12093F0296FC90400FE6D89 /* Assets.xcassets */; };
 		B12093F4296FC90400FE6D89 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B12093F3296FC90400FE6D89 /* Preview Assets.xcassets */; };
 		B12093FC296FCB0500FE6D89 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12093FB296FCB0500FE6D89 /* TestView.swift */; };
+		B12093FE296FCFB500FE6D89 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12093FD296FCFB500FE6D89 /* CircleImage.swift */; };
+		B1209400296FD16900FE6D89 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12093FF296FD16900FE6D89 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		B12093F0296FC90400FE6D89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B12093F3296FC90400FE6D89 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B12093FB296FCB0500FE6D89 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		B12093FD296FCFB500FE6D89 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		B12093FF296FD16900FE6D89 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 			children = (
 				B12093EE296FC90100FE6D89 /* ContentView.swift */,
 				B12093FB296FCB0500FE6D89 /* TestView.swift */,
+				B12093FD296FCFB500FE6D89 /* CircleImage.swift */,
+				B12093FF296FD16900FE6D89 /* MapView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -149,6 +155,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B12093FC296FCB0500FE6D89 /* TestView.swift in Sources */,
+				B12093FE296FCFB500FE6D89 /* CircleImage.swift in Sources */,
+				B1209400296FD16900FE6D89 /* MapView.swift in Sources */,
 				B12093EF296FC90100FE6D89 /* ContentView.swift in Sources */,
 				B12093ED296FC90100FE6D89 /* LandmarksApp.swift in Sources */,
 			);
